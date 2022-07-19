@@ -1,7 +1,11 @@
 body {
     color: white;
     background-color: black;
+<<<<<<< HEAD
     font-family: 'Trenton', cursive;
+=======
+    font-family: 'New Jersey', cursive;
+>>>>>>> efe60adaa4bcc5d47c69f8ef4feaef0133662032
     font-size: 32px;
     margin-top: 5%;
     margin-left: 20%;
